@@ -5,3 +5,6 @@
 欢迎大家提交PR贡献新资源。
 
 如果你觉得有用，为创建者打个赏吧~
+
+<img src="./reward.png" width = "250" height = "250" alt="图片名称" align=center />
+
